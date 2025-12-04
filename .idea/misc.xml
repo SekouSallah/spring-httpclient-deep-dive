@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/superheroes-server-producer/pom.xml" />
         <option value="$PROJECT_DIR$/superheroes-traditional-httpclient-consumer/pom.xml" />
         <option value="$PROJECT_DIR$/superheroes-restclient-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/superheroes-new-httpclient-consumer/pom.xml" />
       </list>
     </option>
   </component>
